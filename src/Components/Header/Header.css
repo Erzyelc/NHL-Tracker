@@ -1,0 +1,41 @@
+.header-container{
+    height: 100px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 75px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+h1{
+    color: #F74902;
+    font-family: 'Graduate', cursive;
+}
+
+.heart{
+    font-size: 30px;
+    padding-right: 15px;
+    cursor: pointer;
+}
+
+.heart:hover{
+    color: #e63946;
+}
+
+.profile-icon{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.profile-icon:hover{
+    color: #e63946;
+}
+
+nav{
+    padding-right: 30px;
+}
