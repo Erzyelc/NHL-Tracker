@@ -8,7 +8,7 @@ function Header() {
   return (
     <div className="header-container">
         <img src={shieldlogo} className="logo" alt="shield logo"/>
-        <h1>NHL Tracker</h1>
+        <h1>NHL TRACKER</h1>
 
         <nav>
         <AiFillHeart className="heart"/>
