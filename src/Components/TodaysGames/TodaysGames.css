@@ -1,0 +1,14 @@
+.todays-games-container{
+    background-color: #edede9;
+    height: 800px;
+    margin: 100px 30px;
+    border-radius: 35px;
+}
+
+.todays-games-container h2{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 25px;
+    font-weight: 900;
+    color: #F74902;
+}

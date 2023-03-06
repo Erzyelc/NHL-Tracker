@@ -1,0 +1,39 @@
+.top-players-container{
+    /*background-color: #8d99ae;*/
+    background-color: #edede9;
+    height: 500px;
+    margin:  70px 30px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top-players-container h2{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 25px;
+    font-weight: 900;
+    color: #F74902;
+}
+
+.player-icon{
+    font-size: 100px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.player-icon:hover{
+    color: #e63946;
+}
+
+.view-all{
+    background-color: #F74902;
+    border: none;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
